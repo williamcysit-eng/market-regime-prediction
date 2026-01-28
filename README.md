@@ -87,8 +87,7 @@ The regime-conditional parameters proved particularly effective during the 2020-
 
 ## Investment Objectives & Liquidity Considerations
 
-**Primary Objective**: Provide investors with **liquidity liberty**—the tactical flexibility to withdraw capital without locking in severe drawdowns during crisis periods.
-
+**Primary Objective**:
 Traditional buy-and-hold strategies implicitly assume indefinite investment horizons. This regime-switching approach acknowledges behavioral reality: investors face higher marginal utility of liquidity during stress periods and are statistically more likely to panic-withdraw at market bottoms. By capping maximum drawdown at -23.7% versus -33.9%, the strategy preserves investor "staying power" and reduces the probability of destructive behavioral disintermediation.
 
 **Key Advantages:**
