@@ -97,14 +97,6 @@ Traditional buy-and-hold strategies implicitly assume indefinite investment hori
 - **Opportunistic Re-entry**: Systematic re-allocation prevents missing recovery phases due to fear
 - **Anytime Withdrawal**: Lower volatility profile allows strategic exits without catastrophic loss crystallization
 
-## Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/regime-switching-strategy.git
-cd regime-switching-strategy
-pip install -r requirements.txt
-```
-
 ## Disclaimer
 Reference Date Notice: These results, parameters, and backtests were generated on 28 January 2026 using historical data available through that date. Market regimes evolve; past performance—particularly the favorable 2020-2026 test period—does not guarantee future results.
 This implementation is for educational and research purposes only. The strategy involves financial risk and should not be used for live trading without extensive due diligence, slippage analysis, and tax consideration. The reduction in drawdown comes at the cost of tracking error and potential underperformance during strong momentum rallies.
