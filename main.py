@@ -372,7 +372,7 @@ if __name__ == "__main__": # nest inside __name__ block to prevent random errors
     
     ax.set_yscale('log')
     ax.legend()
-    ax.set_title('Out-of-Sample Performance (2020-2026)')
+    ax.set_title('Out-of-Sample Performance')
     ax.grid(True, alpha=0.3)
     
     # Parameter stability visualization
