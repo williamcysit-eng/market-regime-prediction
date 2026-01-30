@@ -1,0 +1,13 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master. develop ]
+  pull_request:
+    branches: [ main, master ]
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  lint-and-format:
+    runs-on: ubuntu-latest
