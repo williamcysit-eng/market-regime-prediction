@@ -61,6 +61,7 @@ Stability Ratio: 1.60
 
 
 **Regime Identification:**
+
 - **Bear Regime ID**: 1 (Average Volatility: 0.0247 daily)
 - **Bull Regime ID**: 0 (Average Volatility: 0.0089 daily)
 
@@ -97,6 +98,6 @@ Traditional buy-and-hold strategies implicitly assume indefinite investment hori
 - **Anytime Withdrawal**: Lower volatility profile allows strategic exits without catastrophic loss crystallization
 
 ## Disclaimer
-Reference Date Notice: These results, parameters, and backtests were generated on 28 January 2026 using historical data available through that date. Market regimes evolve; past performance—particularly the favorable 2020-2026 test period—does not guarantee future results.
+Reference Date Notice: These results, parameters, and backtests were generated on 28 January 2026 using historical data available through that date. Market regimes evolve; past performance (particularly the favorable 2020-2026 test period) does not guarantee future results.
 This implementation is for educational and research purposes only. The strategy involves financial risk and should not be used for live trading without extensive due diligence, slippage analysis, and tax consideration. The reduction in drawdown comes at the cost of tracking error and potential underperformance during strong momentum rallies.
 Tested across 96 years of market data as of 28 Jan, 2026.
